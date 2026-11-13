@@ -108,7 +108,7 @@ This project merges **IoT, AI, and embedded systems** to deliver a low-cost yet 
 
 ```bash
 # Clone the repository
-git clone https://github.com/Tanjamul-Azad/Silicon-Squad-.git
+git clone https://github.com/Tanzamul-Azad/Silicon-Squad-.git
 cd care_companion
 
 # Create and activate virtual environment
@@ -131,7 +131,7 @@ United International University (UIU), Bangladesh
 
 📘 Course: Microprocessors and Microcontrollers Laboratory (CSE 4326)
 
-💻 GitHub: Tanjamul-Azad / Silicon-Squad-
+💻 GitHub: Tanzamul-Azad / Silicon-Squad-
 
 
 💬 Future Enhancements
